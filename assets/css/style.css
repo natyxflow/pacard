@@ -688,6 +688,10 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+#services {
+  background-color: rgb(209, 221, 217);
+}
+
 .services .icon-box {
   text-align: center;
   padding: 40px 20px;
@@ -870,6 +874,10 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+#testimonials {
+  background-color: rgb(209, 221, 217);
+}
+
 .testimonials .testimonial-item {
   box-sizing: content-box;
   padding: 30px 30px 0 30px;
@@ -934,7 +942,7 @@ section {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background-color: #ddd !important;
+  background-color:#5d6d69 !important;
 }
 
 .testimonials .owl-dot.active {
@@ -951,7 +959,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background: rgb(228, 236, 228);
 }
 
 .team .member {
