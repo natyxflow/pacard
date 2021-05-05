@@ -692,6 +692,10 @@ section {
   background-color: rgb(209, 221, 217);
 }
 
+.myicons {
+  width: 35px;
+}
+
 .services .icon-box {
   text-align: center;
   padding: 40px 20px;
